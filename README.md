@@ -11,7 +11,7 @@ app_port: 7860
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://toxguard-06.streamlit.app/)
 [![API Backend](https://img.shields.io/badge/API_Backend-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://gencoder-toxguard-api.hf.space)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge)](https://github.com/Priyanshukv06/ToxGuard_Multi-Label_Content_Flagger.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge)](https://github.com/Pushkarkv/ToxGuard_Multi-Label_Content_Flagger.git)
 
 A production-ready content moderation system that detects overall toxicity and categorizes it into 5 specific sublabels using dual BiLSTM model pipelines, plus an optional fine-tuned DistilBERT transformer with attention-rollout explainability.
 

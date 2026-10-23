@@ -231,7 +231,7 @@ def main():
 
             st.markdown("---")
             st.markdown("### 📂 Project")
-            st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge)](https://github.com/Priyanshukv06/ToxGuard_Multi-Label_Content_Flagger.git)")
+            st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge)](https://github.com/Pushkarkv/ToxGuard_Multi-Label_Content_Flagger.git)")
 
         tab1, tab2 = st.tabs(["Single Comment Analysis", "Batch Analysis"])
 
